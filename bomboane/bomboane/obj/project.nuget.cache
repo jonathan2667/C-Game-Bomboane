@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Mvc8Tz8WpcNdmMynW/cM0G8XCv9/f+lV4owh8g6rNvnbn+PQWPb67Ueu0tqSvft1aaV3m9mLQQLBGK3gStESA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elev\\Desktop\\bomboane\\bomboane\\bomboane.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
